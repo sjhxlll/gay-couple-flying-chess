@@ -48,8 +48,8 @@ Disallow: /private/
 Crawl-delay: 3
 
 # 网站地图
-Sitemap: https://cpfly.top/sitemap.xml
-Sitemap: https://cpfly.top/api/sitemap
+Sitemap: https://aidoi.de/sitemap.xml
+Sitemap: https://aidoi.de/api/sitemap
 
 # 网站主页
-Host: https://cpfly.top
+Host: https://aidoi.de

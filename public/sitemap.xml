@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cpfly.top</loc>
+    <loc>https://aidoi.de</loc>
     <lastmod>2024-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://cpfly.top" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://cpfly.top/en" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://cpfly.top/ja" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aidoi.de" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aidoi.de/en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aidoi.de/ja" />
   </url>
   <url>
-    <loc>https://cpfly.top/en</loc>
+    <loc>https://aidoi.de/en</loc>
     <lastmod>2024-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://cpfly.top" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://cpfly.top/en" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://cpfly.top/ja" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aidoi.de" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aidoi.de/en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aidoi.de/ja" />
   </url>
   <url>
-    <loc>https://cpfly.top/ja</loc>
+    <loc>https://aidoi.de/ja</loc>
     <lastmod>2024-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://cpfly.top" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://cpfly.top/en" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://cpfly.top/ja" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aidoi.de" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aidoi.de/en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aidoi.de/ja" />
   </url>
   <url>
-    <loc>https://cpfly.top/how-to-play</loc>
+    <loc>https://aidoi.de/how-to-play</loc>
     <lastmod>2024-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://cpfly.top/how-to-play" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://cpfly.top/en/how-to-play" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://cpfly.top/ja/how-to-play" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aidoi.de/how-to-play" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aidoi.de/en/how-to-play" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aidoi.de/ja/how-to-play" />
   </url>
   <url>
-    <loc>https://cpfly.top/game-modes</loc>
+    <loc>https://aidoi.de/game-modes</loc>
     <lastmod>2024-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://cpfly.top/game-modes" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://cpfly.top/en/game-modes" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://cpfly.top/ja/game-modes" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aidoi.de/game-modes" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aidoi.de/en/game-modes" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aidoi.de/ja/game-modes" />
   </url>
   <url>
-    <loc>https://cpfly.top/faq</loc>
+    <loc>https://aidoi.de/faq</loc>
     <lastmod>2024-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://cpfly.top/faq" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://cpfly.top/en/faq" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://cpfly.top/ja/faq" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://aidoi.de/faq" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aidoi.de/en/faq" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aidoi.de/ja/faq" />
   </url>
 </urlset>
